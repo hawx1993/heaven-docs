@@ -1,0 +1,44 @@
+
+# dependencies
+node_modules
+npm-debug.log*
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# production
+es
+docs-dist
+
+# misc
+.DS_Store
+coverage
+.cache/*
+# umi
+.umi
+.umi-production
+.umi-test
+.env.local
+
+# ide
+.vscode
+.idea
+dist
+lib
+pbc
+docs
+packages/heaven/src/**/demos/*
+packages/heaven/docs/*
+packages/heaven-pbc
+packages/heaven-template
+src/.umi/.cache
+*.yml
+
+*.json
+*.ts
+*.tsx
+*.lock
+*.d.ts
+*.js
+*.less
+*.css
