@@ -27,6 +27,7 @@ dist
 lib
 docs
 packages/heaven/src/**/demos/*
+packages/heaven/src/**/assets/**
 packages/heaven/docs/*
 packages/heaven-template
 src/.umi/.cache
