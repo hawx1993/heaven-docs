@@ -25,7 +25,7 @@ function App() {
 
 ## API
 
-类型定义详见 [typings](typings/index.d.ts) 目录。
+### ZeusSidebar
 
 | Prop | Type | Default | Description |
 | - | - | - | - |
