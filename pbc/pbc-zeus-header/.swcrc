@@ -1,0 +1,30 @@
+{
+  "minify": true,
+  "env": {
+    "target": {
+      "ie": "11"
+    },
+    "mode": "entry",
+    "coreJs": 3
+  },
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true,
+      "dynamicImport": true,
+      "decorators": true
+    },
+    "loose": true,
+    "externalHelpers": true,
+    "transform": {
+      "legacyDecorator": true,
+      "decoratorMetadata": true,
+      "react": {
+        "runtime": "automatic",
+        "throwIfNamespace": true,
+        "useBuiltins": true,
+        "refresh": true
+      }
+    }
+  }
+}
