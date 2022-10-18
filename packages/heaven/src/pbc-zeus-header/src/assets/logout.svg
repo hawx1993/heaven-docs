@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>退出登陆</title>
+    <g id="☆-最终方案-☆-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="通用模块" transform="translate(-804.000000, -960.000000)">
+            <g id="编组-11" transform="translate(788.000000, 803.000000)">
+                <g id="编组" transform="translate(16.000000, 115.000000)">
+                    <polygon id="路径" points="0 42 24 42 24 66 0 66"></polygon>
+                    <path d="M14,50 L14,48 C14,46.8954305 13.1045695,46 12,46 L5,46 C3.8954305,46 3,46.8954305 3,48 L3,60 C3,61.1045695 3.8954305,62 5,62 L12,62 C13.1045695,62 14,61.1045695 14,60 L14,58" id="路径" stroke="#2C3E50" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7,54 L21,54 L18,51 M18,57 L21,54" id="形状" stroke="#2C3E50" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="矩形备份-40" fill-opacity="0.600355455" fill="#1EE6ED" x="6" y="51" width="12" height="12" rx="6"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

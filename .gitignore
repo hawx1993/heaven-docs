@@ -33,7 +33,7 @@ src/.umi/.cache
 *.yml
 .browserslistrc
 demo
-pbc/**/src
+pbc
 *.json
 *.ts
 *.tsx

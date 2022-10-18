@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="83px" viewBox="0 0 102 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg底图元素三角形</title>
+    <defs>
+        <linearGradient x1="-3.55271368e-13%" y1="1.42108547e-12%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00ECEA" offset="0%"></stop>
+            <stop stop-color="#2A64F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="产品信息架构分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1">
+        <g id="PaaS客户信息-展开备份" transform="translate(-118.000000, -695.000000)" fill="url(#linearGradient-1)">
+            <g id="编组-10" transform="translate(117.897734, 644.951233)">
+                <polygon id="矩形备份-13" transform="translate(66.391313, 66.391313) rotate(-68.000000) translate(-66.391313, -66.391313) " points="15.3913128 15.3913128 117.391313 117.391313 15.3913128 117.391313"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
