@@ -27,7 +27,7 @@ function App() {
 
 ### ZeusSidebar
 
-| Prop | Type | Default | Description |
+| 参数      | 说明                                                           | 类型          | 默认值 | 
 | - | - | - | - |
 | header | object | {} | {afterLoginUrl: '',title:'', logoUrl:''}|
 |items | [] | ItemType[]| antd menu items|
